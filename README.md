@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=MinJeongKim&fontSize=70&animation=twinkling)
 
-<h3 align="center"> 😎 It's me </h3>
+<h3 align="center"> 😎 It's me 😎 </h3>
 
-<p align="center">Hello!🖐<br>I'm Minjeong Kim and I'm studying computer science at Kookmin University.<br>I'm interest in Web Development.</p>
+<p align="center">Hello!<br>I'm Minjeong Kim and I'm studying computer science at Kookmin University.<br>I'm interest in Web Development.</p>
 
 <p align="center">
   <img src="https://likelion-badge.herokuapp.com/api/likelion_shield_badge" />
