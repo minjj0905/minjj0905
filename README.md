@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/ming._.0905/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/ming._.0905/"/></a>
   <a href="mailto:minjj0905@kookmin.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=minjj0905@kookmin.ac.kr"/></a>
 </p>
-<br>
+<br/>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -26,8 +26,17 @@
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>&nbsp
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>&nbsp
 </p>
-<br>
+<br/>
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjj0905&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minjj0905" />
+  <br/>
+  <br/>
+  <a href="https://velog-readme-stats.vercel.app/api/redirect?name=minjj0905"><img src="https://velog-readme-stats.vercel.app/api?name=minjj0905" /> </a>
 </p>
