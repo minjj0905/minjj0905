@@ -7,8 +7,9 @@
 <p align="center">
   <img src="https://likelion-badge.herokuapp.com/api/likelion_shield_badge" />
   <a href="https://solved.ac/minjj0905"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=minjj0905" /> </a>
-  <a href="https://www.instagram.com/ming._.0905/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ming._.0905/"/></a>
-  <a href="mailto:minjj0905@kookmin.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=minjj0905@kookmin.ac.kr"/></a>
+  <a href="https://velog.io/@minjj0905"><img src="https://img.shields.io/badge/-minjj0905-%2320C997?style=flat&logo=Vimeo&logoColor=white" /> </a>
+  <a href="https://www.instagram.com/ming._.0905/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/ming._.0905/"/></a>
+  <a href="mailto:minjj0905@kookmin.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=minjj0905@kookmin.ac.kr"/></a>
 </p>
 <br>
 
