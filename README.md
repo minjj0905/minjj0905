@@ -2,7 +2,7 @@
 
 <h3 align="center"> 😎 It's me 😎 </h3>
 
-<p align="center">Hello!<br>I'm Minjeong Kim and I'm studying computer science at Kookmin University.<br>I'm interest in Web Development.</p>
+<p align="center">Hello!<br>I'm Minjeong Kim. I'm studying computer science at Kookmin University.<br>I'm interest in Web Development.</p>
 
 <p align="center">
   <img src="https://likelion-badge.herokuapp.com/api/likelion_shield_badge" />
