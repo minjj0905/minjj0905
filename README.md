@@ -11,7 +11,7 @@
 
 
 <h3 align="center">😎 I am 😎</h3>
-<p align="center">Majoring in Cs, Kookmin Univ.<br/>Interested in Web dev.</p>
+<p align="center">Majoring in CS, Kookmin Univ.<br/>Interested in Web dev.</p>
 
 
 <h3 align="center">🛠 Skills 🛠</h3>
