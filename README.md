@@ -26,7 +26,6 @@
   <br />
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Amazon_AWS-232f3e?style=flat-square&logo=AmazonAWS&logoColor=white"/>&nbsp 
 </p>
 
