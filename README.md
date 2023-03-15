@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/ReactQuery-ff4154?style=flat-square&logo=ReactQuery&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/styled--components-db7093?style=flat-square&logo=styled-components&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/StoryBook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>&nbsp
   <br />
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp 
