@@ -9,7 +9,6 @@
   <a href="mailto:minjj0905@daum.net"><img src="https://img.shields.io/badge/Email-d14836?style=flat&logo=Gmail&logoColor=white&link=minjj0905@daum.net"/></a>
 </p>
 
-
 <h3 align="center">😎 I am 😎</h3>
 <p align="center">Majoring in CS in Kookmin Univ.<br/>Interested in Web Dev.<br/>Currently in SSAFY 10th.</p>
 
