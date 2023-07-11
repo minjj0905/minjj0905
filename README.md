@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center">😎 I am 😎</h3>
-<p align="center">Majoring in CS in Kookmin Univ.<br/>Interested in Web Dev.<br/>Currently in SSAFY 10th.</p>
+<p align="center">Majored in CS in Kookmin Univ.<br/>Usually interested in Web Dev.<br/>Currently in SSAFY 10th.</p>
 
 
 <h3 align="center">🛠 Skills 🛠</h3>
