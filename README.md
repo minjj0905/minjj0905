@@ -33,9 +33,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minjj0905" />
-  <br/>
-  <br/>
-  <a href="https://velog-readme-stats.vercel.app/api/redirect?name=minjj0905"><img src="https://velog-readme-stats.vercel.app/api?name=minjj0905" /> </a>
+<!--   <br/> -->
+<!--   <br/> -->
+<!--   <a href="https://velog-readme-stats.vercel.app/api/redirect?name=minjj0905"><img src="https://velog-readme-stats.vercel.app/api?name=minjj0905" /> </a> -->
 </p>
 <br/>
 
