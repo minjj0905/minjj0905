@@ -3,9 +3,9 @@
 
 <h3>🤗 Hello 🤗</h3>
 <p>
-  <a href="https://www.linkedin.com/in/minjj0905/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minjj0905/" /> </a>
+  <a href="https://www.linkedin.com/in/minjj0905/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minjj0905/" /></a>
   <a href="https://www.instagram.com/__min.jj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/__min.jj/"/></a>
-  <a href="https://solved.ac/minjj0905"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=minjj0905" /> </a>
+  <a href="https://solved.ac/minjj0905"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=minjj0905" /></a>
   <a href="mailto:minjj0905@daum.net"><img src="https://img.shields.io/badge/Email-d14836?style=flat&logo=Gmail&logoColor=white&link=minjj0905@daum.net"/></a>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjj0905&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
