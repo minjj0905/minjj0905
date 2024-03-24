@@ -12,8 +12,6 @@
 
 <h3>😎 I am 😎</h3>
 <p>
-  
-  - **Contentree Joongang Corp.** - Web Developer *(2023.12 ~ )*
   - **SSAFY 10th** - 1학기 수료 *(2023.07 ~ 2023.12)*
   - **SCOP** - Web Intern *(2021.06 ~ 2021.08)*
   - **Like-Lion Univ** - Manager & Member *(2021.03 ~ 2023.08)* 
