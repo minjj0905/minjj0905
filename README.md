@@ -40,6 +40,9 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=minjj0905" />
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{minjj0905}"/>
+</a>
 <!--   <br/> -->
 <!--   <br/> -->
 <!--   <a href="https://velog-readme-stats.vercel.app/api/redirect?name=minjj0905"><img src="https://velog-readme-stats.vercel.app/api?name=minjj0905" /> </a> -->
