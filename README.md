@@ -37,7 +37,13 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232f3e?style=flat-square&logo=AmazonAWS&logoColor=white"/>&nbsp 
 </p>
 
+<h3>... and my cat 😸 </h3>
+<img src="https://github.com/user-attachments/assets/7a9b32be-0979-4e7a-8b51-7a8813773a9c" width="300" />
+
+
 <br/>
+<br/>
+
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=minjj0905" />
